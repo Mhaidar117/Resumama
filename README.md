@@ -38,8 +38,8 @@ This project demonstrates a resume generator powered by a fine-tuned t5-small tr
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo/resume-generator.git
-   cd resume-generator
+   git clone https://github.com/Mhaidar117/Resumama.git
+   cd resumama
    ```
 
 2. Run the notebook:
