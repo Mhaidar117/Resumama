@@ -79,7 +79,7 @@ This project demonstrates a resume generator powered by a fine-tuned t5-small tr
 - [Transformer Models by Hugging Face](https://huggingface.co/docs/transformers/index)
 - [Text-to-text transfer transformer (t5)](https://github.com/google-research/text-to-text-transfer-transformer)
 - Relevant YouTube Video Tutorials:
-  - [Introduction to t5 tuning]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=PyRbP9d27sk))
+  - [Introduction to t5 tuning](https://www.youtube.com/watch?v=PyRbP9d27sk)
   - [Understanding Transformers for NLP](https://www.youtube.com/watch?v=fNxaJsNG3-s)
 
 ## Limitations
