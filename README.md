@@ -1,6 +1,6 @@
 
 # Resume Generator with AI
-
+[Resumama Presentation Video](https://drive.google.com/file/d/1qPLF8CN3ZERe1zKK0Wt1EUFaZjzQ1WCa/view?usp=sharing)
 This project demonstrates a resume generator powered by a fine-tuned t5-small transformer model, capable of creating tailored resumes based on specific job descriptions. It uses OCR for extracting text from images and PDFs and employs a transformer-based language model to produce context-specific resumes.
 
 ## Features
